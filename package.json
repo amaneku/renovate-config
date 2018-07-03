@@ -1,0 +1,28 @@
+{
+  "name": "@amaneku/renovate-config",
+  "description": "Renovate config",
+  "version": "0.0.0",
+  "bugs": {
+    "url": "https://github.com/amaneku/renovate-config/issues"
+  },
+  "homepage": "https://github.com/amaneku/renovate-config#readme",
+  "keywords": [],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amaneku/renovate-config.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "renovate-config": {
+    "default": {
+      "extends": [
+        "config:base",
+        ":timezone(Asia/Tokyo)",
+        ":automergePatch"
+      ]
+    }
+  }
+}
