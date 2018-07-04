@@ -1,5 +1,7 @@
 # @amaneku/renovate-config
 
+[![Build Status](https://travis-ci.org/amaneku/renovate-config.svg?branch=master)](https://travis-ci.org/amaneku/renovate-config)
+
 ## Installation
 
 ```
