@@ -5,6 +5,10 @@
   "bugs": {
     "url": "https://github.com/amaneku/renovate-config/issues"
   },
+  "devDependencies": {
+    "mocha": "5.2.0",
+    "renovate": "13.7.6"
+  },
   "homepage": "https://github.com/amaneku/renovate-config#readme",
   "keywords": [],
   "license": "MIT",
@@ -14,7 +18,7 @@
     "url": "git+https://github.com/amaneku/renovate-config.git"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha test"
   },
   "renovate-config": {
     "default": {
