@@ -10,9 +10,11 @@
     "renovate": "13.7.6"
   },
   "homepage": "https://github.com/amaneku/renovate-config#readme",
-  "keywords": [],
+  "keywords": [
+    "config",
+    "renovate"
+  ],
   "license": "MIT",
-  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/amaneku/renovate-config.git"
