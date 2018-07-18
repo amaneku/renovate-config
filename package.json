@@ -7,7 +7,7 @@
   },
   "devDependencies": {
     "mocha": "5.2.0",
-    "renovate": "13.22.4"
+    "renovate": "13.22.6"
   },
   "homepage": "https://github.com/amaneku/renovate-config#readme",
   "keywords": [
