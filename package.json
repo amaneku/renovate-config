@@ -1,7 +1,7 @@
 {
   "name": "@amaneku/renovate-config",
   "description": "Renovate config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "bugs": {
     "url": "https://github.com/amaneku/renovate-config/issues"
   },
