@@ -1,21 +1,28 @@
 {
   "name": "@amaneku/renovate-config",
-  "description": "Renovate config",
   "version": "1.0.1",
+  "description": "Renovate config",
+  "keywords": [
+    "config",
+    "renovate"
+  ],
+  "homepage": "https://github.com/amaneku/renovate-config#readme",
   "bugs": {
     "url": "https://github.com/amaneku/renovate-config/issues"
+  },
+  "license": "MIT",
+  "files": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amaneku/renovate-config.git"
+  },
+  "scripts": {
+    "test": "mocha test"
   },
   "devDependencies": {
     "mocha": "5.2.0",
     "renovate": "13.52.0"
   },
-  "files": [],
-  "homepage": "https://github.com/amaneku/renovate-config#readme",
-  "keywords": [
-    "config",
-    "renovate"
-  ],
-  "license": "MIT",
   "renovate-config": {
     "default": {
       "extends": [
@@ -24,12 +31,5 @@
         ":automergePatch"
       ]
     }
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/amaneku/renovate-config.git"
-  },
-  "scripts": {
-    "test": "mocha test"
   }
 }
