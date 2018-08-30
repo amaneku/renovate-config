@@ -6,7 +6,7 @@
     "config",
     "renovate"
   ],
-  "homepage": "https://github.com/amaneku/renovate-config#readme",
+  "homepage": "https://github.com/amaneku/renovate-config",
   "bugs": {
     "url": "https://github.com/amaneku/renovate-config/issues"
   },
@@ -14,7 +14,7 @@
   "files": [],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/amaneku/renovate-config.git"
+    "url": "https://github.com/amaneku/renovate-config.git"
   },
   "scripts": {
     "test": "mocha test"
