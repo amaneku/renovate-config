@@ -21,7 +21,7 @@
   },
   "devDependencies": {
     "mocha": "5.2.0",
-    "renovate": "13.125.7"
+    "renovate": "13.126.0"
   },
   "renovate-config": {
     "default": {
