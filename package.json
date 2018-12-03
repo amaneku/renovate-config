@@ -23,9 +23,6 @@
     "mocha": "^5.2.0",
     "renovate": "^13.136.6"
   },
-  "publishConfig": {
-    "access": "public"
-  },
   "renovate-config": {
     "default": {
       "extends": [
