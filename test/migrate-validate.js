@@ -1,6 +1,6 @@
 const assert = require('assert');
-const { initLogger } = require('renovate/lib/logger');
-const { migrateAndValidate } = require('renovate/lib/config/migrate-validate');
+const { initLogger } = require("renovate/dist/logger");
+const { migrateAndValidate } = require("renovate/dist/config/migrate-validate");
 
 initLogger();
 
