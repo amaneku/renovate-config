@@ -20,8 +20,8 @@
     "test": "mocha"
   },
   "devDependencies": {
-    "mocha": "6.1.4",
-    "renovate": "18.30.6"
+    "mocha": "6.2.0",
+    "renovate": "19.7.1"
   },
   "publishConfig": {
     "access": "public"
