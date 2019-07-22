@@ -1,8 +1,5 @@
-const assert = require('assert');
-const { initLogger } = require("renovate/dist/logger");
+const assert = require("assert");
 const { migrateAndValidate } = require("renovate/dist/config/migrate-validate");
-
-initLogger();
 
 describe('@amaneku/renovate-config', () => {
   let pkg, renovateConfig;
