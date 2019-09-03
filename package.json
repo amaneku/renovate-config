@@ -21,7 +21,7 @@
   },
   "devDependencies": {
     "mocha": "6.2.0",
-    "renovate": "19.36.4"
+    "renovate": "19.37.0"
   },
   "publishConfig": {
     "access": "public"
