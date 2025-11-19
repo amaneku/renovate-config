@@ -20,7 +20,7 @@
     "test": "mocha"
   },
   "devDependencies": {
-    "mocha": "11.1.0",
+    "mocha": "11.7.5",
     "renovate": "41.13.1"
   },
   "publishConfig": {
